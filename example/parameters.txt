@@ -1,0 +1,2 @@
+sentence1	hypothesis.txt
+sentence2	reference.txt

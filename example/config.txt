@@ -1,0 +1,2 @@
+Prefix plugins/BLEU/example/
+Plugin BLEU inputfile parameters.txt outputfile none
